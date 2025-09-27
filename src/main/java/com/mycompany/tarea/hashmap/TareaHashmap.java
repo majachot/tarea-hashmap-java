@@ -6,7 +6,7 @@ package com.mycompany.tarea.hashmap;
 
 /**
  *
- * @author Soluciones
+ * @author Marco Jacho
  */
 import java.util.HashMap;
 
@@ -21,7 +21,7 @@ public class TareaHashmap {
 
         // 2. Acceder y modificar valores
         // Cambiar "ciudad"
-        informacionPersonal.put("ciudad", "GUAYAS");
+        informacionPersonal.put("ciudad", "Ambato");
 
         // Agregar "profesion"
         informacionPersonal.put("profesion", "Tecnologo en Electrónica");
